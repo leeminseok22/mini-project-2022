@@ -193,3 +193,5 @@ out/
 .idea/httpRequests
 
 .idea/
+*.idea/*
+.venv/*
